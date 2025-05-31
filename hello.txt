@@ -3,7 +3,5 @@ hello theLin hello Git
 hello theLin hello Git
 hello theLin hello Git
 hello theLin hello Git
-<<<<<<< HEAD
 hello theLin hello Git master test
 hello theLin hello Git hot-fix test
->>>>>>> hot-fix
